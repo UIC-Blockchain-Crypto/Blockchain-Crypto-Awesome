@@ -1,6 +1,29 @@
 # UIC Chicago Exchange Blockchain Awesome
 Resources on getting started with blockchain
 
+# Table of Contents
+- [What is Blockchain?](#what-is-blockchain)
+  - [Blockchain In Demo](#blockchain-in-demo)
+  - [Genesis Block](#genesis-block)
+  - [What is a Coinbase Transaction?](#what-is-a-coinbase-transaction)
+- [Tokens](#tokens)
+  - [Fungible Tokens](#fungible-tokens)
+    - [How To Create a Token (Step-by-Step ERC20 Code Explained) - Video](#how-to-create-a-token-step-by-step-erc20-code-explained---video)
+  - [NFTs](#nfts)
+    - [EIP 721 Standard Proposal - Non-Fungible Token Standard](#eip-721-standard-proposal---non-fungible-token-standard)
+    - [EIP 1155 Standard Proposal - Multi Token Standard](#eip-1155-standard-proposal---multi-token-standard)
+    - [How to Implement a ERC721](#how-to-implement-a-erc721)
+    - [Openzeppelin ERC721 Smart Contract](#openzeppelin-erc721-smart-contract)
+    - [1st NFT Real World House Sale - By OnChain Roofstock](#1st-nft-real-world-house-sale---by-onchain-roofstock)
+    - [NFT Marketplaces](#nft-marketplaces)
+  - [Stablecoins](#stablecoins)
+- [Wallets](#wallets)
+  - [MPC](#mpc)
+  - [HSM](#hsm)
+  - [Multi-Signature](#multi-signature)
+- [DeFi](#defi)
+  - [Liquidity Pools](#liquidity-pools)
+
 ## What is Blockchain?
 Shared Ledger System that provides traceability, permanence, transparency. 
 
@@ -91,7 +114,7 @@ https://learnmeabitcoin.com/technical/p2ms
 #### Ethereum Smart Contract for Ethereum Multi-Sig Wallet
 https://github.com/BitGo/eth-multisig-v4/tree/master/contracts 
 
-### DeFi
+## DeFi
 ### Liquidity Pools
 #### Dipping into a Liquidity Pool
 https://medium.com/coinmonks/dipping-into-a-liquidity-pool-905a615f0758
