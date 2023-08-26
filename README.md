@@ -16,6 +16,7 @@ Resources on getting started with blockchain
   - [Multi-Signature](#multi-signature)
 - [DeFi](#defi)
   - [Liquidity Pools](#liquidity-pools)
+  - [Crypto Derivatives](#crypto-derivatives)
 
 ## What is Blockchain?
 Shared Ledger System that provides traceability, permanence, transparency. 
@@ -123,3 +124,17 @@ https://www.youtube.com/watch?v=8XJ1MSTEuU0
 
 #### Liquidity Pools - Video
 https://www.youtube.com/watch?v=cizLhxSKrAc&pp=ygUUZmluZW1hdGljIHN0YWJsZWNvaW4%3D
+
+### Crypto Derivatives
+#### Crypto University - What are Crypto Derivatives Options Futures
+https://crypto.com/university/what-are-crypto-derivatives-options-futures
+
+## Howey Test
+### SEC's Framework for “Investment Contract” Analysis of Digital Assets
+https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets
+
+### Testing Howey: With Congress Stalled, the SEC Stakes its Expanding Crypto Enforcement on a Nearly Eight-Decade-Old Test
+https://tax.thomsonreuters.com/news/testing-howey-with-congress-stalled-the-sec-stakes-its-expanding-crypto-enforcement-on-a-nearly-eight-decade-old-test/
+
+### Find Law - What is the Howey Test
+https://www.findlaw.com/consumer/securities-law/what-is-the-howey-test.html
