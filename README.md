@@ -17,6 +17,7 @@ Resources on getting started with blockchain
 - [DeFi](#defi)
   - [Liquidity Pools](#liquidity-pools)
   - [Crypto Derivatives](#crypto-derivatives)
+  - [Howey Test](#howey-test)
 
 ## What is Blockchain?
 Shared Ledger System that provides traceability, permanence, transparency. 
