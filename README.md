@@ -139,3 +139,6 @@ https://tax.thomsonreuters.com/news/testing-howey-with-congress-stalled-the-sec-
 
 ### Find Law - What is the Howey Test
 https://www.findlaw.com/consumer/securities-law/what-is-the-howey-test.html
+
+#### University of Chicago Law School - A regulatory classification of digital assets: toward an operational howey test for cryptocurrencies, ICOs, and other digital assets
+https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2257&context=public_law_and_legal_theory
