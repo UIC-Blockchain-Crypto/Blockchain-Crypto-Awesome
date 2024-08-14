@@ -142,3 +142,10 @@ https://www.findlaw.com/consumer/securities-law/what-is-the-howey-test.html
 
 #### University of Chicago Law School - A regulatory classification of digital assets: toward an operational howey test for cryptocurrencies, ICOs, and other digital assets
 https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2257&context=public_law_and_legal_theory
+
+
+# Books
+Crypto: How the Code Rebels Beat the Government – Saving Privacy in the Digital Age
+https://icdt.osu.edu/crypto-how-code-rebels-beat-government-saving-privacy-digital-age
+
+
