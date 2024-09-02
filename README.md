@@ -143,6 +143,13 @@ https://www.findlaw.com/consumer/securities-law/what-is-the-howey-test.html
 #### University of Chicago Law School - A regulatory classification of digital assets: toward an operational howey test for cryptocurrencies, ICOs, and other digital assets
 https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2257&context=public_law_and_legal_theory
 
+## Cryptography
+### Cryptogrpahy in Jupyter Notebooks - Bill Buchanan OBE FRSE
+https://medium.com/asecuritysite-when-bob-met-alice/teaching-theory-and-practice-in-cryptography-the-wonderful-jupyter-notebooks-4c5b32637c24
+
+### Diffie Hellman
+https://medium.com/coinmonks/diffie-hellman-and-why-its-needed-df558e808fea
+
 # Books
 Crypto: How the Code Rebels Beat the Government – Saving Privacy in the Digital Age
 https://icdt.osu.edu/crypto-how-code-rebels-beat-government-saving-privacy-digital-age
@@ -152,5 +159,4 @@ https://github.com/bitcoinbook/bitcoinbook
 
 Mastering Ethereum: Building Smart Contracts and DApps
 https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/
-
 
