@@ -22,6 +22,9 @@ Resources on getting started with blockchain
 ## What is Blockchain?
 Shared Ledger System that provides traceability, permanence, transparency. 
 
+### Blockchain Mechanics - Understanding Consensus
+https://www.youtube.com/watch?v=GLD1ol3wRs8
+
 ### Blockchain In Demo
 https://blockchaindemo.io/?ref=producthunt
 
