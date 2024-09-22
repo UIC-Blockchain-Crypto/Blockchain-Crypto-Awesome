@@ -153,6 +153,10 @@ https://medium.com/asecuritysite-when-bob-met-alice/teaching-theory-and-practice
 ### Diffie Hellman
 https://medium.com/coinmonks/diffie-hellman-and-why-its-needed-df558e808fea
 
+## Mining
+### Crypto Mining Calculator
+https://www.coinwarz.com/
+
 # Books
 Crypto: How the Code Rebels Beat the Government – Saving Privacy in the Digital Age
 https://icdt.osu.edu/crypto-how-code-rebels-beat-government-saving-privacy-digital-age
